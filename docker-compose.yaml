@@ -8,21 +8,8 @@ services:
       dockerfile: dockerfile
     ports:
       - "3000:8080"
-    # image: golang
-    # container_name: golang
     networks:
       - gonet 
-
-  # nginx:
-  #   build:
-  #     context: ./
-  #     dockerfile: nginx
-  #   image: nginx:latest
-  #   container_name: nginx
-  #   networks:
-  #     - gonet
-  #   ports:
-  #     - "8080:8080"
 networks:
   gonet:
     driver: bridge
