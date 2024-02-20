@@ -1,8 +1,8 @@
 <h1 align="center">Fullcycle Golang Desafio</h1>
 <h3 align="center">Aprendendo um pouco mais sobre docker e fullcycle</h3>
 
-<h3 align="left">Imagem  Go</h3>
-<p align="left">executar: docker-compose up</p>
+<h3 align="left">Imagem Docker</h3>
+<p align="left">https://hub.docker.com/repository/docker/nandogarciaz/fullcycle/general</p>
 
 <h3 align="left">Rodando a aplicação docker</h3>
 <p align="left">Você pode trocar a porta que quiser para rodar</p>
