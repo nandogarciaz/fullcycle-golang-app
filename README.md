@@ -2,7 +2,8 @@
 
 <h3 align="left">Imagem Docker</h3>
 <p align="left">O desafio foi criar um projeto Golang, onde o objetivo é imprimir um texto na tela. O projeto precisava ter menos de 2 MB de tamaho.</p>
-<p align="left">https://hub.docker.com/repository/docker/nandogarciaz/fullcycle</p>
+<p align="left"></p>
+<p align="left"><b>docker hub:</b> <a href="[https://github.com/nandogarciaz/fullcycle-golang-app](https://hub.docker.com/repository/docker/nandogarciaz/fullcycle)" target="_blank">[https://github.com/nandogarciaz/fullcycle-golang-app](https://hub.docker.com/repository/docker/nandogarciaz/fullcycle)</a></p>
 
 <h3 align="left">Rodando a aplicação docker</h3>
 <p align="left">Você pode trocar a porta que quiser para rodar</p>
